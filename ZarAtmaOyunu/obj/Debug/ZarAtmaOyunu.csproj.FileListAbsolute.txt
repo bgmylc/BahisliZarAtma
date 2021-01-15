@@ -1,0 +1,10 @@
+C:\Users\LENOVO\source\repos\ZarAtmaOyunu\ZarAtmaOyunu\bin\Debug\ZarAtmaOyunu.exe.config
+C:\Users\LENOVO\source\repos\ZarAtmaOyunu\ZarAtmaOyunu\bin\Debug\ZarAtmaOyunu.exe
+C:\Users\LENOVO\source\repos\ZarAtmaOyunu\ZarAtmaOyunu\bin\Debug\ZarAtmaOyunu.pdb
+C:\Users\LENOVO\source\repos\ZarAtmaOyunu\ZarAtmaOyunu\obj\Debug\ZarAtmaOyunu.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\ZarAtmaOyunu\ZarAtmaOyunu\obj\Debug\ZarAtmaOyunu.Form1.resources
+C:\Users\LENOVO\source\repos\ZarAtmaOyunu\ZarAtmaOyunu\obj\Debug\ZarAtmaOyunu.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\ZarAtmaOyunu\ZarAtmaOyunu\obj\Debug\ZarAtmaOyunu.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\ZarAtmaOyunu\ZarAtmaOyunu\obj\Debug\ZarAtmaOyunu.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\ZarAtmaOyunu\ZarAtmaOyunu\obj\Debug\ZarAtmaOyunu.exe
+C:\Users\LENOVO\source\repos\ZarAtmaOyunu\ZarAtmaOyunu\obj\Debug\ZarAtmaOyunu.pdb
